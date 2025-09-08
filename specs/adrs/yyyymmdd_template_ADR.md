@@ -32,21 +32,18 @@ Chosen option: "{title of option 1}", because {justification}
 
 ### Option 1
 
-- Good, because ___
-
-- Bad, because ___
+- Pro:
+- Con:
 
 
 ### Option 2
 
-- Good, because ___
-
-- Bad, because ___
+- Pro:
+- Con:
 
 
 ### Option 3
 
-- Good, because ___
-
-- Bad, because ___
+- Pro:
+- Con:
 
